@@ -1,0 +1,2 @@
+# chatgpt
+my coding note
